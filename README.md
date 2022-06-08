@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @zai
+- 👀 Interested in Software Development, and I'm currently working as a Software Engineer.
+- 🌱 I’m currently learning ASP.NET, RESTful API, WEB Api, Laravel. But I develop programs using VB.NET and C#
